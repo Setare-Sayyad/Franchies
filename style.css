@@ -24,7 +24,15 @@ section img {
 }
 
 /* its just for commit */
-#card {
+.card {
   width: 450px;
   height: 450px;
+}
+#butten {
+  color: #fff;
+  background-color: black;
+  box-shadow: unset;
+}
+.card {
+  float: inline-start;
 }
