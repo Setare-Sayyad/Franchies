@@ -18,10 +18,13 @@ section img {
   width: 25px;
   height: 25px;
 }
-#fristpage {
-  width: 80px;
-  height: 50px;
+#photo {
+  width: 1200px;
+  height: 500px;
 }
-#color {
-  color: blue;
+
+/* its just for commit */
+#card {
+  width: 450px;
+  height: 450px;
 }
