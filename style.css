@@ -33,6 +33,15 @@ section img {
   background-color: black;
   box-shadow: unset;
 }
-.card {
+/* .card {
   float: inline-start;
+} */
+/* #dark {
+  background-color: #202020;
+} */
+/* #next {
+  float: inline-start;
+} */
+#or {
+  color: orange;
 }
